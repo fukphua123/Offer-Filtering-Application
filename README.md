@@ -1,7 +1,6 @@
 # Offer-Filtering-Application
  Here is a README.md file to explain setting up and running the offer filtering application:
 
-# Offer Filtering Application
 
 ## Overview
 
